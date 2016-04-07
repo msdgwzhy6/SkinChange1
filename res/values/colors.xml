@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 皮肤1 主色调 天蓝#4AC2E3-->
+	<color name="pf1_activity_bg_color1">#46BAE3</color>       <!-- 界面背景 -->
+	<color name="pf1_activity_bg_color2">#63f3e3</color>
+	<color name="pf1_main_item_bg1">#50CEE3</color>            <!-- item选择器 -->
+	<color name="pf1_main_item_bg2">#4AC2E3</color>
+    <color name="pf1_text_color">#000000</color>               <!-- 字体颜色黑色 -->
+	
+	<!-- 皮肤2 主色调 草绿#53CAC3-->
+	<color name="pf2_activity_bg_color1">#53CAC3</color>       <!-- 界面背景 -->
+	<color name="pf2_activity_bg_color2">#73FFB9</color>
+	<color name="pf2_main_item_bg1">#62E3BE</color>            <!-- item选择器 -->
+	<color name="pf2_main_item_bg2">#5BD7C0</color>
+	<color name="pf2_text_color">#ffffff</color>               <!-- 字体颜色白色 -->
+</resources>
